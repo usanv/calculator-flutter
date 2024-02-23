@@ -1,4 +1,4 @@
-# Приложение калькулятор
+# Calculator app with history
 
 
 ## Screenshots
